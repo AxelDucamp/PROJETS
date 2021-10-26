@@ -22,9 +22,9 @@ Ce projet se décompose en quatre étapes :
 3.   Pre-processing, conception et entraînement du modèle.
 4.   Test du modèle.
 
-# Génération de pièces romaines (GANs) :
+# (Bonus) Génération de pièces romaines :
 
-Par la suite j'ai également, à l'aide de GANs, générer de nouvelles pièces romaines. Je peux partager le code à la demande. Voici le résultat que je ne trouve pas parfait sous forme de GIF.
+Par la suite j'ai également, à l'aide de GANs, généré de nouvelles pièces romaines. Je peux partager le code à la demande. Voici le résultat !
 
 <br>
 
