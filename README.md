@@ -22,3 +22,18 @@ Ce projet se décompose en quatre étapes :
 3.   Pre-processing, conception et entraînement du modèle.
 4.   Test du modèle.
 
+Par la suite j'ai également, à l'aide de GANs, générer de nouvelles pièces romaines. Je peux partager le code à la demande. Voici le résultat que je ne trouve pas parfait sous forme de GIF.
+
+<br>
+
+
+
+<p align="center">
+  <img width="700" height="250" src="https://github.com/AxelDucamp/PROJETS_Pieces_Romaines/blob/main/GANs_pieces_romaines.gif?raw=true">
+</p>
+
+
+<br>
+<br>
+
+
